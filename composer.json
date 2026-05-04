@@ -1,0 +1,12 @@
+{
+    "name": "usuario/golampi-interpreter",
+    "authors": [
+        {
+            "name": "luisyoupi1",
+            "email": "3004717770101@ingenieria.usac.edu.gt"
+        }
+    ],
+    "require": {
+        "antlr/antlr4-php-runtime": "^0.9.1"
+    }
+}
